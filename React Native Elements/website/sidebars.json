@@ -1,0 +1,43 @@
+{
+  "docs": {
+    "It Starts Basic": [
+      "getting_started",
+      "overview",
+      "customization",
+      "web_usage",
+      "troubleshooting"
+    ],
+    "Components": [
+      "avatar",
+      "badge",
+      "bottomsheet",
+      "button",
+      "button_group",
+      "card",
+      "checkbox",
+      "chip",
+      "divider",
+      "fab",
+      "header",
+      "icon",
+      "image",
+      "input",
+      "linearProgress",
+      "listitem",
+      "overlay",
+      "pricing",
+      "rating",
+      "searchbar",
+      "slider",
+      "social_icon",
+      "speeddial",
+      "switch",
+      "tab",
+      "text",
+      "tile",
+      "tooltip"
+    ],
+    "Universe Components": ["circularslider"],
+    "Repo": ["contributing", "testing", "labels"]
+  }
+}
